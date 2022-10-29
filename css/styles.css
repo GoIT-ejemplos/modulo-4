@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.menu-icon {
+  fill: blue;
+  width: 200px;
+  height: 200px;
+}
+
+.menu-icon:hover {
+  fill: green;
+  cursor: pointer;
+}
